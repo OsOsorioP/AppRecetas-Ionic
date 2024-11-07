@@ -1,0 +1,150 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="primary">
+    <ion-title>
+      País
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-accordion-group>
+
+    <!-- Reino Unido -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>Reino Unido </ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'Reino Unido'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+
+    </ion-accordion>
+
+    <!-- India -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>India</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'India'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <!-- America -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>America</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'Americano'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <!-- Mexico -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>Mexico</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'Mexico'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <!-- España -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>España</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'España'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <!-- Canadá -->
+    <ion-accordion >
+      <ion-item slot="header" color="light">
+        <ion-label>Canadá</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'Canadá'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <!-- Turquía -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>Turquía</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'Turquía'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <!-- Japón -->
+    <ion-accordion>
+      <ion-item slot="header" color="light">
+        <ion-label>Japón</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.pais == 'Japón'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+  </ion-accordion-group>
+</ion-content>

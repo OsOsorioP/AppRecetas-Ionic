@@ -1,0 +1,107 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="primary">
+    <ion-title>
+      Categorías
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-accordion-group>
+    <ion-accordion >
+      <ion-item slot="header" color="light">
+        <ion-label>Postre</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta"> 
+        <div *ngIf="receta.categoria == 'Postre'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>      
+      </div>
+
+    </ion-accordion>
+    <ion-accordion value="second">
+      <ion-item slot="header" color="light">
+        <ion-label>Carne de res</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">     
+        <div *ngIf="receta.categoria == 'Carne de res'">
+          <ion-item  [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>  
+      </div>
+    </ion-accordion>
+    <ion-accordion value="third">
+      <ion-item slot="header" color="light">
+        <ion-label>Vegetariano</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">  
+        <div *ngIf="receta.categoria == 'Vegetariano'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>     
+      </div>
+    </ion-accordion>
+
+    <ion-accordion value="a">
+      <ion-item slot="header" color="light">
+        <ion-label>Misceláneas</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">       
+        <div *ngIf="receta.categoria == 'Misceláneas'">
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label > {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+    
+    <ion-accordion value="b">
+      <ion-item slot="header" color="light">
+        <ion-label>Acompañamiento</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.categoria == 'Acompañamiento'">       
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+    <ion-accordion value="h">
+      <ion-item slot="header" color="light">
+        <ion-label>Mariscos</ion-label>
+      </ion-item>
+      <div slot="content" *ngFor="let receta of Receta">
+        <div *ngIf="receta.categoria == 'Mariscos'">       
+          <ion-item [routerLink]="['/receta/' + receta.id]">
+            <ion-avatar slot="start">
+              <img alt="receta.name" src="{{receta.img}}" />
+            </ion-avatar>
+            <ion-label> {{receta.name}} </ion-label>
+          </ion-item>
+        </div>
+      </div>
+    </ion-accordion>
+
+  </ion-accordion-group>
+</ion-content>

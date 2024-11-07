@@ -1,0 +1,474 @@
+
+{
+    "recetas": [
+        {
+            "id": 1,
+            "name": "Tarta casera",
+            "img": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+            "categoria": "Postre",
+            "pais": "Reino Unido",
+            "instrucciones":"Para hacer la masa, mida la harina en un bol y frote la mantequilla con las yemas de los dedos hasta que la mezcla parezca pan rallado fino. Agregue el agua, mezclando hasta formar una masa suave. Extienda la masa sobre una superficie de trabajo ligeramente en harinada y utilícela para forrar un molde para flan de 20 cm/8 pulgadas. Dejar en la nevera para que se enfríe durante 30 minutos. Precaliente el horno a 200C/400F/Gas 6 (ventilador de 180C). Cubra el molde de hojaldre con papel aluminio y rellénelo con frijoles para hornear. Hornee a ciegas durante unos 15 minutos, luego retire los frijoles y el papel de aluminio y cocine durante otros cinco minutos para secar la base. Para el relleno, untar generosamente la base del flan con mermelada de frambuesa. Derrita la mantequilla en una sartén, retire del fuego y luego agregue el azúcar. Añadir las almendras molidas, el huevo y el extracto de almendras. Verter en la lata de flan y espolvorear por encima las almendras laminadas. Hornear durante unos 35 minutos. Si las almendras parecen dorarse demasiado rápido, cubra la tarta con papel aluminio para evitar que se quemen.",
+            "ingredientes":[1,2,3,4,5,6,7,8,9,10],
+            "porciones":   [4,3,5,8,2,3,7,6,3,1]
+        },
+        {
+            "id": 2,
+            "name": "Buey Wellington",
+            "img": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+            "categoria": "Carne de res",
+            "pais": "Reino Unido",
+            "instrucciones":"Coloque los champiñones en un procesador de alimentos con un poco de condimento y triture hasta obtener una pasta áspera. Raspe la pasta en una sartén y cocine a fuego alto durante unos 10 minutos, revolviendo con frecuencia, para eliminar la humedad de los champiñones. Extender en un plato para que se enfríe. Calentar en una sartén y añadir un poco de aceite de oliva. Sazone la carne y dore en la sartén caliente durante 30 segundos solo por cada lado. (No quieres cocinarlo en esta etapa, solo coloréalo). Retire la carne de la sartén y déjela enfriar, luego cepille todo con la mostaza. Coloque una hoja de film transparente sobre una superficie de trabajo y coloque las lonchas de jamón de Parma sobre ella, en filas ligeramente superpuestas. Con una espátula, extienda la pasta de champiñones sobre el jamón, luego coloque el filete de res sellado en el centro. Sujetando con fuerza la película adhesiva desde el borde, enrolle cuidadosamente el jamón de Parma y los champiñones alrededor de la carne para formar una forma de barril apretada. Gire los extremos de la película adhesiva para asegurar. Enfríe durante 15-20 minutos para permitir que la carne se asiente y mantenga su forma. Extienda la masa de hojaldre sobre una superficie enharinada hasta obtener un rectángulo grande, del grosor de una moneda de 1 libra esterlina. Retire la película adhesiva de la carne, luego colóquela en el centro. Cepille la masa circundante con yema de huevo. Dobla los extremos, envuelve la masa alrededor de la carne, cortando cualquier exceso. Voltee, de modo que la costura quede debajo, y colóquelo en una bandeja para hornear. Cepille toda la masa con huevo y enfríe durante unos 15 minutos para dejar reposar la masa. Caliente el horno a 200C, 400F, gas 6. Marcar ligeramente la masa a intervalos de 1 cm y volver a glasear con yema de huevo batida. Hornee por 20 minutos, luego baje la configuración del horno a 180C, 350F, gas 4 y cocine por otros 15 minutos. Deje reposar durante 10-15 minutos antes de rebanar y servir con las guarniciones de su elección. La carne aún debe estar rosada en el centro cuando la sirvas.",
+            "ingredientes":[11,12,13,14,15,1 ,16 ],
+            "porciones":   [5 ,8 ,11,12,5 ,1 ,10 ]
+        },
+        {
+            "id": 3,
+            "name": "Baingan Bharta",
+            "img": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+            "categoria": "Vegetariano",
+            "pais": "India",
+            "instrucciones":"Enjuague el baingan (berenjena o berenjena) en agua. Seque con una servilleta de cocina. Aplique un poco de aceite por todas partes y guárdelo para asarlo a fuego abierto. También puedes asar el baingan o asarlo al horno. Pero entonces no obtendrás el sabor ahumado del baingan. Mantenga la berenjena dando vuelta después de 2 a 3 minutos en la llama, para que se cocine uniformemente. También puedes incrustar algunos dientes de ajo en el baingan y luego asarlo. 2. Asar la berenjena hasta que esté completamente cocida y tierna. Con un cuchillo comprobar la cocción. El cuchillo debe deslizarse fácilmente en las berenjenas sin ninguna resistencia. Retire el baingan y sumérjalo en un recipiente con agua hasta que se enfríe. 3. También puede hacer la técnica dhungar de infundir sabor ahumado de carbón en el baingan. Este es un paso opcional. Usa carbón natural para este método. Caliente un pequeño trozo de carbón en llamas hasta que se vuelva humeante y rojo. 4. Haz pequeños cortes en el baingan con un cuchillo. Colocar el carbón al rojo vivo en el mismo plato donde se guarda la berenjena asada. Añadir unas gotas de aceite sobre el carbón. El carbón empezaría a humear. 5. Tan pronto como comience a salir humo del carbón, cubra bien todo el plato con un tazón grande. Permita que el humo del carbón se infunda durante 1 a 2 minutos. Cuanto más lo haga, más ahumado se volverá el baingan bharta. Solo me quedo un minuto. Alternativamente, también puede hacer este método dhungar una vez que el baingan bharta esté cocido, tal como lo hacemos con Dal Tadka. 6. Pelar la piel de las berenjenas asadas y ahumadas. 7. Pica finamente la berenjena cocida o incluso puedes triturarla. 8. En un kadai o sartén, caliente el aceite. Luego agregue las cebollas y el ajo finamente picados. 9. Saltee las cebollas hasta que estén transparentes. No los dores. 10 Agregue los chiles verdes picados y saltee por un minuto. 11 Agregue los tomates picados y mezcle bien. 12 Bhuno (saltear) los tomates hasta que el aceite comience a separarse de la mezcla. 13 Ahora agregue el chile rojo en polvo. Revuelva y mezcle bien. 14 Agregue el baingan cocido picado. 15. Revuelva y mezcle muy bien el baingan picado con la mezcla de cebolla, tomate y masala. dieciséis. Sazonar con sal. Revuelva y saltee un poco más de 4 a 5 minutos más. 17 Finalmente agregue las hojas de cilantro con el baingan bharta o decórelo con ellas. Sirva Baingan Bharta con phulkas, rotis o chapatis. Va bien incluso con pan, pan tostado o a la parrilla y arroz simple o arroz jeera.",
+            "ingredientes":[17,18,19,20,21,22],
+            "porciones":   [9 ,9 ,9 ,12,7 ,8 ]
+        },
+        {
+            "id": 4,
+            "name": "Carne asada a la olla",
+            "img": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+            "categoria": "Carne de res",
+            "pais": "Americano",
+            "instrucciones":"1 Prepara la pechuga para cocinar: En un lado de la pechuga debe haber una capa de grasa, que quieras. Si hay trozos grandes de grasa, córtelos y deséchelos. Los trozos grandes de grasa no se pueden quitar por completo. Con un cuchillo afilado, marca la grasa en líneas paralelas, separadas aproximadamente 3/4 de pulgada. Cortar la grasa, no la carne. Repite en la dirección opuesta para hacer un patrón de sombreado cruzado. Salar bien la pechuga y dejar reposar a temperatura ambiente durante 30 minutos. 2 Dora la pechuga: Necesitarás una olla de fondo grueso a prueba de horno con tapa, u horno holandés, que sea lo suficientemente ancho como para sostener la pechuga asada con un poco de espacio para las cebollas. Seca la pechuga y colócala, con la grasa hacia abajo, en la olla y colócala a fuego medio alto. Cocinar durante 5-8 minutos, ligeramente chisporroteando, hasta que el lado graso esté bien dorado. (Si parece que el asado se cocina demasiado rápido, baja el fuego a medio. Quieres un chisporroteo constante, no un fiador furioso. ) Voltee la pechuga y cocine por unos minutos más para dorar el otro lado. 3 Saltear las cebollas y el ajo: Cuando la pechuga se haya dorado, retírala de la olla y reserva. Debería haber un par de cucharadas de grasa en la olla, si no, agrega un poco de aceite de oliva. Añadir las cebollas picadas y subir el fuego a alto. Espolvorear un poco de sal sobre las cebollas. Saltear, revolviendo con frecuencia, hasta que las cebollas estén ligeramente doradas, de 5 a 8 minutos. Añadimos el ajo y cocinamos 1-2 minutos más. 4 Vuelve la pechuga a la olla, agrega las hierbas, el caldo, cocina a fuego lento, tapa, cocina en el horno: Precalienta el horno a 300 ° F. Usa hilo de cocina para unir las hojas de laurel, el romero y el tomillo. Mueve las cebollas y el ajo a los lados de la olla y coloca la pechuga adentro. Añadimos el caldo de carne y las hierbas atadas. Llevar el caldo a ebullición en la estufa. Tapar la olla, colocar la olla en el horno a 300 ° F y cocinar por 3 horas. Voltea cuidadosamente la pechuga cada hora para que se cocine de manera uniforme. 5 Agrega las zanahorias, continúa cocinando: Después de 3 horas, agrega las zanahorias. Empapa la olla y cocina por 1 hora más, o hasta que las zanahorias estén bien cocidas y la pechuga se esté desmoronando tierna. 6 Quite la pechuga a la tabla de cortar, cubra con papel de aluminio: Cuando la pechuga se esté desmoronando, saca la olla del horno y retira la pechuga a una tabla de cortar. Cúbrelo con papel de aluminio. Sacar y desechar las hierbas. 7 Hacer salsa (opcional): En este punto tienes dos opciones. Puede servir como está, o puedes hacer una salsa con la grasa y algunas de las cebollas. Si lo sirves tal cual, omite este paso. Para hacer una salsa, retira las zanahorias y la mitad de las cebollas, reserva y cúbrelas con papel aluminio. Vierte los ingredientes que quedan en la olla en una licuadora y haz puré hasta que quede suave. Si lo deseas, agrega 1 cucharada de mostaza a la mezcla. Poner en una olla pequeña y mantener caliente. 8 Rebanar la carne a través del grano: observar las líneas de las fibras musculares del asado. Este es el 'grano' de la carne. Rebanar la carne en forma perpendicular a estas líneas, o a través del grano (cortar de esta manera ablanda aún más la carne), en rebanadas de 1/4 a 1/2 pulgada. Sirve con las cebollas, las zanahorias y la salsa. Sirve con puré de papas, asadas o hervidas, fideos de huevo o polenta.",
+            "ingredientes":[24,23,18,20,25,26,27,28,29,30,31],
+            "porciones":   [5 ,8 ,10,12,9 ,9 ,13,10,13,8 ,13]
+        },
+        {
+            "id": 5,
+            "name": "Chile de ternera estofado",
+            "img": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+            "categoria": "Carne de res",
+            "pais": "Mexico",
+            "instrucciones":"Precaliente el horno a 120C/225F/gas marca 1. Saca la carne de la nevera para descongelarla. Pulsa las cebollas y el ajo en un procesador de alimentos hasta que estén finamente picados. Calentar 2 cucharadas de aceite de oliva en una cacerola grande y dorar la carne por todos lados hasta que esté dorada. Reservar y añadir otro chorrito de aceite para dorar el chorizo. Retira y agrega la cebolla y el ajo, las especias, las hierbas y los chiles, luego cocina hasta que estén suaves en el aceite de chorizo. Sazona con sal y pimienta y agrega el vinagre, los tomates, el ketchup y el azúcar. Vuelve a poner toda la carne en la olla con 400 ml de agua (o vino tinto si lo prefieres), lleva a fuego lento y cocina, tapado, en el horno bajo. Después de 2 horas, revisa la carne y agrega los frijoles. Cocinar por una hora más y justo antes de servir, separa la carne con un par de tenedores.",
+            "ingredientes":[32,18,20,13,33,34,35,36,27,37,38,39,40,41],
+            "porciones":   [14,13,13,8 ,15,8 ,6 ,9 ,13,8 ,10,8 ,5 ,8 ]
+        },
+        {
+            "id": 6,
+            "name": "Kumpir",
+            "img": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+            "categoria": "Acompañamiento",
+            "pais": "Turquía",
+            "instrucciones":"Si pides kumpir en Turquía, el relleno estándar es primero, mucha mantequilla triturada en la patata, seguida de queso. Luego hay una fila de otros ingredientes que puede señalar a su antojo (maíz dulce, aceitunas, salami, ensalada de col, ensalada rusa, todo tipo) y se va con una papa demasiado rellena porque siempre se emocionó con las opciones. en oferta. Ralla (aproximadamente, puedes usar tanto como quieras) 150 g de queso. Picar finamente una cebolla y un pimiento rojo dulce. Pon estos ingredientes en un tazón grande con una buena pizca de sal y pimienta, hojuelas de chile (opcional).",
+            "ingredientes":[31,2,47,18,48,49],
+            "porciones":   [10,16,3,9,9,6]
+        },
+        {
+            "id": 7,
+            "name": "Tortilla española",
+            "img": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
+            "categoria": "Vegetariano",
+            "pais": "España",
+            "instrucciones":"Pon una sartén antiadherente grande a fuego lento. Cocinar la cebolla lentamente en el aceite y la mantequilla hasta que esté suave pero no dorada; esto debería tardar unos 15 minutos. Agrega las papas, cubre la sartén y cocina por otros 15-20 minutos, revolviendo ocasionalmente para asegurarte de que se fríen uniformemente. Cuando las patatas estén blandas y la cebolla esté brillante, machaca 2 dientes de ajo e incorpora, seguido de los huevos batidos. Vuelve a tapar la sartén y deja que la tortilla se cocine a fuego lento. Después de 20 minutos, los bordes y la base deben estar dorados, la parte superior fraguada pero el medio todavía un poco tambaleante. Para darle la vuelta, deslízalo en un plato y pon otro plato encima, dale la vuelta y vuelve a deslizarlo en la sartén para terminar de cocinar. Una vez cocida, pasa a un plato y sirve la tortilla templada o fría, espolvoreada con el perejil picado. Para acompañar, tomar rebanadas de baguette caliente, pinchar todo con un tenedor y frotar con el ajo restante, apilar tomates rallados y sazonar con sal marina y un chorrito de aceite de oliva.",
+            "ingredientes":[18,13,2 ,31,20,7 ,43,42,44],
+            "porciones":   [10,3 ,1 ,13,13,13,7 ,7 ,12]
+        },
+        {
+            "id": 8,
+            "name": "Arroz gohan japones",
+            "img": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+            "categoria": "Acompañamiento",
+            "pais": "Japón",
+            "instrucciones":"PASO 1 Enjuagar y remojar el arroz es clave para lograr la textura perfecta. Mide el arroz en un tazón, cúbrelo con agua fría y luego usa tus dedos para masajear los granos de arroz; el agua se volverá turbia. Escurrir y enjuagar de nuevo con agua fresca. Repetir cinco veces más hasta que el agua se mantenga clara. PASO 2 Vierte el arroz enjuagado en una cacerola con 400 ml de agua, o 200 ml de dashi y 200 ml de agua, hierve, luego baja el fuego a fuego lento, cubre con una tapa hermética con un orificio de vapor y cocina por 15 Minutos Retirar del fuego y dejar reposar otros 15 minutos, luego revolver a través del mirin. Retira la tapa y revuélvelo bien. Sirve con cualquiera o todos los ingredientes opcionales.",
+            "ingredientes":[50,51,52,53],
+            "porciones":   [15,6,10,10]
+        },
+        {
+            "id": 9,
+            "name": "Poutine",
+            "img": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+            "categoria": "Misceláneas",
+            "pais": "Canadá",
+            "instrucciones":"Caliente el aceite en una freidora o sartén profunda y pesada a 365 ° F (185 ° C). Caliente la salsa en una cacerola o en el microondas. Coloque las papas fritas en el aceite caliente y cocine hasta que estén doradas, aproximadamente 5 minutos. Retire a un plato forrado con toallas de papel para drenar. Coloque las papas fritas en un plato para servir y espolvoree el queso sobre ellas. Sirva la salsa sobre las papas fritas y el queso, y sirva de inmediato.",
+            "ingredientes":[21,45,31,46],
+            "porciones":   [8,16,13,16]  
+        },
+        {
+            "id": 10,
+            "name": "Salmón teriyaki con miel",
+            "img": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+            "categoria": "Mariscos",
+            "pais": "Japón",
+            "instrucciones":"Mezcle todos los ingredientes en el glaseado de miel teriyaki. Batir para mezclar bien. Combine el salmón y el glaseado juntos. Calienta una sartén a fuego medio-bajo. Agregue el aceite, fríe el salmón por ambos lados hasta que esté completamente cocido por dentro y el glaseado espese. Decorar con sésamo y servir inmediatamente.",
+            "ingredientes":[54,13,55,56,57],
+            "porciones":   [5,6,8,8,16]
+        },
+        {
+            "id": 11,
+            "name": "Ejemplo Sopa",
+            "img": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+            "categoria": "Mariscos",
+            "pais": "Mexico",
+            "instrucciones":"Mezcle todos los ingredientes en el glaseado de miel teriyaki. Batir para mezclar bien. Combine el salmón y el glaseado juntos. Calienta una sartén a fuego medio-bajo. Agregue el aceite, fríe el salmón por ambos lados hasta que esté completamente cocido por dentro y el glaseado espese. Decorar con sésamo y servir inmediatamente.",
+            "ingredientes":[54,13,55,56,57],
+            "porciones":   [5,6,8,8,16]
+        }
+    ],
+
+    "ingredientes":[
+        {
+            "idIng":1,
+            "ingrediente":"Harina normal",
+            "img":"https://www.themealdb.com/images/ingredients/Plain%20Flour.png"
+        },
+        {
+            "idIng":2,
+            "ingrediente":"Mantequilla",
+            "img":"https://www.themealdb.com/images/ingredients/Butter.png"
+        },
+        {
+            "idIng":3,
+            "ingrediente":"Mermelada de frambuesa ",
+            "img":"https://www.themealdb.com/images/ingredients/Raspberry%20Jam.png"
+        },
+        {
+            "idIng":4,
+            "ingrediente":"Agua fría",
+            "img":"https://www.themealdb.com/images/ingredients/Cold%20Water.png"
+        },
+        {
+            "idIng":5,
+            "ingrediente":"Manteca",
+            "img":"https://www.themealdb.com/images/ingredients/Chilled%20Butter.png"
+        },
+        {
+            "idIng":6,
+            "ingrediente":"Azúcar glas",
+            "img":"https://www.themealdb.com/images/ingredients/Caster%20Sugar.png"
+        },
+        {
+            "idIng":7,
+            "ingrediente":"Huevo",
+            "img":"https://www.themealdb.com/images/ingredients/Free-range%20Egg,%20Beaten.png"
+        },
+        {
+            "idIng":8,
+            "ingrediente":"Extracto de almendra",
+            "img":"https://www.themealdb.com/images/ingredients/Almond%20Extract.png"
+        },
+        {
+            "idIng":9,
+            "ingrediente":"Almendras fileteadas",
+            "img":"https://www.themealdb.com/images/ingredients/Ground%20Almonds.png"
+        },
+        {
+            "idIng":10,
+            "ingrediente":"Almendras molida",
+            "img":"https://www.themealdb.com/images/ingredients/Flaked%20Almonds.png"
+        },
+        {
+            "idIng":11,
+            "ingrediente":"Hongos",
+            "img":"https://www.themealdb.com/images/ingredients/Mushrooms.png"
+        },
+        {
+            "idIng":12,
+            "ingrediente":"Mostaza Inglesa",
+            "img":"https://www.themealdb.com/images/ingredients/English%20Mustard.png"
+        },
+        {
+            "idIng":13,
+            "ingrediente":"Aceite de Oliva",
+            "img":"https://www.themealdb.com/images/ingredients/Olive%20Oil.png"
+        },
+        {
+            "idIng":14,
+            "ingrediente":"Lonchas de Jamón de Parma",
+            "img":"https://www.themealdb.com/images/ingredients/Parma%20Ham.png"
+        },
+        {
+            "idIng":15,
+            "ingrediente":"Masa de Hojaldre",
+            "img":"https://www.themealdb.com/images/ingredients/Puff%20Pastry.png"
+        },
+        {
+            "idIng":16,
+            "ingrediente":"Yemas de Huevo Batidas",
+            "img":"https://www.themealdb.com/images/ingredients/Egg%20Yolks.png"
+        },
+        {
+            "idIng":17,
+            "img":"https://www.themealdb.com/images/ingredients/Aubergine.png",
+            "ingrediente":"Berenjena"
+        },
+        {
+            "idIng":18,
+            "ingrediente":"Cebolla",
+            "img":"https://www.themealdb.com/images/ingredients/Onion.png"
+        },
+        {
+            "idIng":19,
+            "ingrediente":"Tomate",
+            "img":"https://www.themealdb.com/images/ingredients/Tomatoes.png"
+        },
+        {
+            "idIng":20,
+            "ingrediente":"Dientes de Ajo",
+            "img":"https://www.themealdb.com/images/ingredients/Garlic.png"
+        },
+        {
+            "idIng":21,
+            "ingrediente":"Aceite",
+            "img":"https://www.themealdb.com/images/ingredients/Oil.png"
+        },
+        {
+            "idIng":22,
+            "ingrediente":"Hojas de Cilantro Picadas",
+            "img":"https://www.themealdb.com/images/ingredients/Coriander%20Leaves.png"
+        },
+        {
+            "idIng":23,
+            "ingrediente":"Sal",
+            "img":"https://www.themealdb.com/images/ingredients/Salt.png"
+        },
+        {
+            "idIng":24,
+            "ingrediente":"Pecho de Res",
+            "img":"https://www.themealdb.com/images/ingredients/Beef%20Brisket.png"
+        },
+        {
+            "idIng":25,
+            "ingrediente":"Tomillo",
+            "img":"https://www.themealdb.com/images/ingredients/Thyme.png"
+        },
+        {
+            "idIng":26,
+            "ingrediente":"Romero",
+            "img":"https://www.themealdb.com/images/ingredients/Rosemary.png"
+        },
+        {
+            "idIng":27,
+            "ingrediente":"Hojas de Laurel",
+            "img":"https://www.themealdb.com/images/ingredients/Bay%20Leaves.png"
+        },
+        {
+            "idIng":28,
+            "ingrediente":"Caldo de Carne",
+            "img":"https://www.themealdb.com/images/ingredients/Beef%20Stock.png"
+        },
+        {
+            "idIng":29,
+            "ingrediente":"Zanahoria",
+            "img":"https://www.themealdb.com/images/ingredients/Carrots.png"
+        },
+        {
+            "idIng":30,
+            "ingrediente":"Mostaza",
+            "img":"https://www.themealdb.com/images/ingredients/Mustard.png"
+        },
+        {
+            "idIng":31,
+            "ingrediente":"Papas",
+            "img":"https://www.themealdb.com/images/ingredients/Potatoes.png"
+        },
+        {
+            "idIng":32,
+            "ingrediente":"Carne",
+            "img":"https://www.themealdb.com/images/ingredients/Beef.png"
+        },
+        {
+            "idIng":33,
+            "ingrediente":"Chorizo",
+            "img":"https://www.themealdb.com/images/ingredients/Chorizo.png"
+        },
+        {
+            "idIng":34,
+            "ingrediente":"Comino",
+            "img":"https://www.themealdb.com/images/ingredients/Cumin.png"
+        },
+        {
+            "idIng":35,
+            "ingrediente":"Clavos",
+            "img":"https://www.themealdb.com/images/ingredients/Cloves.png"
+        },
+        {
+            "idIng":36,
+            "ingrediente":"Palito de Canela",
+            "img":"https://www.themealdb.com/images/ingredients/Cinnamon%20Stick.png"
+        },
+        {
+            "idIng":37,
+            "ingrediente":"Orégano Seco",
+            "img":"https://www.themealdb.com/images/ingredients/Oregano.png"
+        },
+        {
+            "idIng":38,
+            "ingrediente":"Chiles Anchos",
+            "img":"https://www.themealdb.com/images/ingredients/Ancho%20Chillies.png"
+        },
+        {
+            "idIng":39,
+            "ingrediente":"vinagre Balsámico",
+            "img":"https://www.themealdb.com/images/ingredients/Balsamic%20Vinegar.png"
+        },
+        {
+            "idIng":40,
+            "ingrediente":"Tomates Ciruela",
+            "img":"https://www.themealdb.com/images/ingredients/Plum%20Tomatoes.png"
+        },
+        {
+            "idIng":41,
+            "ingrediente":"Tomate Ketchup",
+            "img":"https://www.themealdb.com/images/ingredients/Tomato%20Ketchup.png"
+        },
+        {
+            "idIng":42,
+            "ingrediente":"Baguette",
+            "img":"https://www.themealdb.com/images/ingredients/Baguette.png"
+        },
+        {
+            "idIng":43,
+            "ingrediente":"Perejil",
+            "img":"https://www.themealdb.com/images/ingredients/Parsley.png"
+        },
+        {
+            "idIng":44,
+            "ingrediente":"Tomates en su Rama",
+            "img":"https://www.themealdb.com/images/ingredients/Vine%20Tomatoes.png"
+        },
+        {
+            "idIng":45,
+            "ingrediente":"Salsa de Carne",
+            "img":"https://www.themealdb.com/images/ingredients/Beef%20Gravy.png"
+        },
+        {
+            "idIng":46,
+            "ingrediente":"Cuajada de Queso",
+            "img":"https://www.themealdb.com/images/ingredients/Cheese%20Curds.png"
+        },
+        {
+            "idIng":47,
+            "ingrediente":"Queso",
+            "img":"https://www.themealdb.com/images/ingredients/Cheese.png"
+        },
+        {
+            "idIng":48,
+            "ingrediente":"Pimiento Rojo",
+            "img":"https://www.themealdb.com/images/ingredients/Red%20Pepper.png"
+        },
+        {
+            "idIng":49,
+            "ingrediente":"Hojuelas De Chile Rojo",
+            "img":"https://www.themealdb.com/images/ingredients/Red%20Chile%20Flakes.png"
+        },
+        {
+            "idIng":50,
+            "ingrediente":"Arroz Sushi",
+            "img":"https://www.themealdb.com/images/ingredients/Sushi%20Rice.png"
+        },
+        {
+            "idIng":51,
+            "ingrediente":"Mirin Sake",
+            "img":"https://www.themealdb.com/images/ingredients/Mirin.png"
+        },
+        {
+            "idIng":52,
+            "ingrediente":"Jugo de pepinillo",
+            "img":"https://www.themealdb.com/images/ingredients/Pickle%20Juice.png"
+        },
+        {
+            "idIng":53,
+            "ingrediente":"Cebollas de primavera",
+            "img":"https://www.themealdb.com/images/ingredients/Spring%20Onions.png"
+        },
+        {
+            "idIng":54,
+            "ingrediente":"Salmon",
+            "img":"https://www.themealdb.com/images/ingredients/Salmon.png"
+        },
+        {
+            "idIng":55,
+            "ingrediente":"Salsa de soja",
+            "img":"https://www.themealdb.com/images/ingredients/Soy%20Sauce.png"
+        },
+        {
+            "idIng":56,
+            "ingrediente":"Sake",
+            "img":"https://www.themealdb.com/images/ingredients/Sake.png"
+        },
+        {
+            "idIng":57,
+            "ingrediente":"Semilla de sésamo",
+            "img":"https://www.themealdb.com/images/ingredients/Sesame%20Seed.png"
+        }
+    ],
+
+    "porciones":[
+        {
+            "idPorcion":1,
+            "porcion":"50g"
+        },
+        {
+            "idPorcion":2,
+            "porcion":"75g"
+        },
+        {
+            "idPorcion":3,
+            "porcion":"125g"
+        },
+        {
+            "idPorcion":4,
+            "porcion":"175g"
+        },
+        {
+            "idPorcion":5,
+            "porcion":"400g"
+        },
+        {
+            "idPorcion":6,
+            "porcion":"1 cda"
+        },
+        {
+            "idPorcion":7,
+            "porcion":"1/2 cda"
+        },
+        {
+            "idPorcion":8,
+            "porcion":"1-2 cda"
+        },
+        {
+            "idPorcion":9,
+            "porcion":"1 u"
+        },
+        {
+            "idPorcion":10,
+            "porcion":"2-3 u"
+        },
+        {
+            "idPorcion":11,
+            "porcion":"750g"
+        },
+        {
+            "idPorcion":12,
+            "porcion":"6-8 u"
+        },
+        {
+            "idPorcion":13,
+            "porcion":"4 u"
+        },
+        {
+            "idPorcion":14,
+            "porcion":"1kg"
+        },
+        {
+            "idPorcion":15,
+            "porcion":"300g"
+        },
+        {
+            "idPorcion":16,
+            "porcion":"4 cda"
+        },
+        {
+            "idPorcion":17,
+            "porcion":"25g"
+        }
+    ]
+}

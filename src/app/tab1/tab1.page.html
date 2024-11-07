@@ -1,0 +1,36 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="primary">
+    <ion-title>
+      Platillos del Mundo
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>Platillos</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <ion-list>
+        <div *ngFor="let r of Receta" >
+          <ion-item [routerLink]="['/receta/' + r.id]">
+            <ion-thumbnail slot="start">
+              <img alt="{{r.name}}" src="{{r.img}}" />
+            </ion-thumbnail>
+            <ion-label>{{r.name}}</ion-label>
+        </ion-item>
+        </div>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>
+
+
+
+
+
+
+

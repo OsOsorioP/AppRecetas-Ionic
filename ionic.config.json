@@ -1,0 +1,7 @@
+{
+  "name": "MovilDev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
