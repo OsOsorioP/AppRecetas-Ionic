@@ -1,8 +1,10 @@
-<h2>About The Project</h2>
+<h2>Sobre el Proyecto: Recetas</h2>
 
-<p></p>
+<p>La app trata sobre recetas de platillos del mundo, usando la api de ____  </p>
 
-👉 Live Demo: <a href=''>Demo</a>
+
+
+
 
 <h3>Build with:</h3>
 
