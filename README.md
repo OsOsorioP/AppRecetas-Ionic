@@ -29,7 +29,6 @@
 
 
 
-<h3>Build with:</h3>
+<h3>Construido con:</h3>
 
-» SCSS <br>
-» Vite + React JS
+» Ionic Framework
