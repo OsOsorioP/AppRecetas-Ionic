@@ -1,6 +1,6 @@
 <h2>Sobre el Proyecto: Recetas</h2>
 
-<p>La app trata sobre recetas de platillos del mundo, usando la api de ____  </p>
+<p>Es una aplicación móvil de recetas desarrollada con el framework Ionic, que permite a los usuarios descubrir recetas de diversos países y culturas. La aplicación está diseñada para ofrecer una experiencia visual atractiva y fácil de usar, ideal para aficionados a la cocina que buscan explorar la gastronomía internacional. Se usa la API de <a href="https://www.themealdb.com/">TheMealDB</a> </p>
 
 <h3>Menu</h3>
 <div align="center">
@@ -27,8 +27,7 @@
   <img align="center" src="https://github.com/OsOsorioP/Proyecto-Ionic/blob/main/02.png" alt="02-png" width="180px" />
 </div>
 
-
-
 <h3>Construido con:</h3>
 
-» Ionic Framework
+» Ionic Framework <br>
+» Angular
