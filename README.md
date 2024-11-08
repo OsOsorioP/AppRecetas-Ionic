@@ -2,7 +2,7 @@
 
 <p>La app trata sobre recetas de platillos del mundo, usando la api de ____  </p>
 
-<p><img align="right" src="https://github.com/OsOsorioP/Proyecto-Ionic/main/01.png" alt="01-png" /></p>
+<p><img align="right" src="https://github.com/OsOsorioP/Proyecto-Ionic/blob/main/01.png" alt="01-png" /></p>
 
 
 
